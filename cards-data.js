@@ -78,7 +78,7 @@ const CARDS = [
 { id:'devil', name:'The Devil', suit:'Major', symbol:'🔗', keyword:'Old patterns, temptation, release',
   past:"The Devil card represents giving in to the thing you already knew you shouldn't. Drawing this in the past position means you spent way too long stuck in a habit you knew wasn't serving you, and kept doing it anyway.",
   present:"The Devil card represents giving in to the thing you already knew you shouldn't. Drawing this in the present position means you're eyeing up that third glass of table wine, fully aware of what it'll do to you tomorrow.",
-  future:"The Devil card represents giving in to the thing you already knew you shouldn't. Drawing this in the future position means a complete breakdown of self control is scheduled for the dancefloor later, so when the paid bar opens, Tammy and Alex ask you to remember your bank balance has feelings too." },
+  future:"The Devil card represents giving in to the thing you already knew you shouldn't. Drawing this in the future position means a complete breakdown of self control is scheduled for the dancefloor later, so when the bar opens, Tammy and Alex ask you to remember your bank balance has feelings too." },
 
 { id:'tower', name:'The Tower', suit:'Major', symbol:'⚡', keyword:'Sudden change, breakthrough',
   past:"The Tower card represents everything falling apart so something better can be built. Drawing this in the past position means something in your life fell flat on its face, dramatically, and with a bit of distance it's obvious it needed to happen.",
@@ -103,7 +103,7 @@ const CARDS = [
 { id:'judgement', name:'Judgement', suit:'Major', symbol:'📯', keyword:'Reckoning, calling, awakening',
   past:"Judgement represents a wake up call you can't ignore any longer. Drawing this in the past position means a moment of reckoning cleared the air properly, uncomfortable then, clarifying now.",
   present:"Judgement represents a wake up call you can't ignore any longer. Drawing this in the present position means you're holding your breath a bit, waiting to see how Alex's groom speech goes.",
-  future:"Judgement represents a wake up call you can't ignore any longer. Drawing this in the future position means a proper moment of self reckoning is coming tomorrow morning, likely involving your bank statement and some late night rounds at the paid bar." },
+  future:"Judgement represents a wake up call you can't ignore any longer. Drawing this in the future position means a proper moment of self reckoning is coming tomorrow morning, likely involving your bank statement and some late night rounds at the bar." },
 
 { id:'world', name:'The World', suit:'Major', symbol:'🌍', keyword:'Completion, fulfilment',
   past:"The World card represents completion, and a proper sense of everything coming together. Drawing this in the past position means you completed something that genuinely mattered, and closed the circle properly.",
@@ -144,7 +144,7 @@ const CARDS = [
 { id:'wands-seven', name:'Seven of Wands', suit:'Wands', symbol:'🛡', keyword:'Holding your ground',
   past:"The Seven of Wands card represents holding your ground when it matters. Drawing this in the past position means you held your own against odds that really shouldn't have gone your way.",
   present:"The Seven of Wands card represents holding your ground when it matters. Drawing this in the present position means you're defending your elbow room from a neighbour slowly creeping onto your side of the table.",
-  future:"The Seven of Wands card represents holding your ground when it matters. Drawing this in the future position means you'll need to hold your ground in the queue for the paid bar with the ferocity of a warrior." },
+  future:"The Seven of Wands card represents holding your ground when it matters. Drawing this in the future position means you'll need to hold your ground in the queue for the bar with the ferocity of a warrior." },
 
 { id:'wands-eight', name:'Eight of Wands', suit:'Wands', symbol:'💨', keyword:'Speed, momentum',
   past:"The Eight of Wands card represents everything suddenly moving at speed. Drawing this in the past position means a whirlwind stretch went by so fast you needed a holiday to recover from it.",
@@ -164,7 +164,7 @@ const CARDS = [
 { id:'wands-page', name:'Page of Wands', suit:'Wands', symbol:'🌱', keyword:'Curiosity, fresh enthusiasm',
   past:"The Page of Wands card represents youthful enthusiasm and a burst of playful energy. Drawing this in the past position means you threw yourself into something new with real enthusiasm, gear and all.",
   present:"The Page of Wands card represents youthful enthusiasm and a burst of playful energy. Drawing this in the present position means you've got a cheeky spark of mischief as you look over the evening timeline.",
-  future:"The Page of Wands card represents youthful enthusiasm and a burst of playful energy. Drawing this in the future position means some genuinely entertaining gossip is coming your way, so keep your ears open near the paid bar later." },
+  future:"The Page of Wands card represents youthful enthusiasm and a burst of playful energy. Drawing this in the future position means some genuinely entertaining gossip is coming your way, so keep your ears open near the bar later." },
 
 { id:'wands-knight', name:'Knight of Wands', suit:'Wands', symbol:'🚀', keyword:'Bold, fast action',
   past:"The Knight of Wands card represents charging in with confidence and zero foresight. Drawing this in the past position means you jumped in headfirst, with all the confidence and none of the planning.",
@@ -179,7 +179,7 @@ const CARDS = [
 { id:'wands-king', name:'King of Wands', suit:'Wands', symbol:'🦅', keyword:'Vision, bold leadership',
   past:"The King of Wands card represents natural leadership and having the whole room's attention. Drawing this in the past position means you led with real vision, and people followed without needing to be asked.",
   present:"The King of Wands card represents natural leadership and having the whole room's attention. Drawing this in the present position means give Alex your full attention as he steps up to lead the room with his speech.",
-  future:"The King of Wands card represents natural leadership and having the whole room's attention. Drawing this in the future position means you'll take charge of your group later and forcefully direct everyone to the paid bar because it's your round." },
+  future:"The King of Wands card represents natural leadership and having the whole room's attention. Drawing this in the future position means you'll take charge of your group later and forcefully direct everyone to the bar because it's your round." },
 
 // CUPS
 { id:'cups-ace', name:'Ace of Cups', suit:'Cups', symbol:'💧', keyword:'New love, open heart',
@@ -195,7 +195,7 @@ const CARDS = [
 { id:'cups-three', name:'Three of Cups', suit:'Cups', symbol:'🥂', keyword:'Joy, friendship, celebration',
   past:"The Three of Cups card represents raising a glass and celebrating properly. Drawing this in the past position means a proper night out with people you love, the kind where you laughed until it hurt.",
   present:"The Three of Cups card represents raising a glass and celebrating properly. Drawing this in the present position means look around this table, that's pure friendship energy, go on and clink your glasses.",
-  future:"The Three of Cups card represents raising a glass and celebrating properly. Drawing this in the future position means a proper group hug is scheduled for the dancefloor later, so try not to spill anyone's paid bar drinks in the huddle." },
+  future:"The Three of Cups card represents raising a glass and celebrating properly. Drawing this in the future position means a proper group hug is scheduled for the dancefloor later, so try not to spill anyone's bar drinks in the huddle." },
 
 { id:'cups-four', name:'Four of Cups', suit:'Cups', symbol:'😑', keyword:'A little bored, missing something',
   past:"The Four of Cups card represents feeling a bit flat and missing what's right in front of you. Drawing this in the past position means something genuinely good went unnoticed because you were staring at your own feet.",
@@ -215,7 +215,7 @@ const CARDS = [
 { id:'cups-seven', name:'Seven of Cups', suit:'Cups', symbol:'🌈', keyword:'Too many choices',
   past:"The Seven of Cups card represents too many options and total indecision. Drawing this in the past position means you spent ages deciding on something small and still ended up back where you started.",
   present:"The Seven of Cups card represents too many options and total indecision. Drawing this in the present position means just eat what's put in front of you rather than trying to remember what you ordered months ago.",
-  future:"The Seven of Cups card represents too many options and total indecision. Drawing this in the future position means total indecision awaits at the paid bar later, so have a rough order ready before you get to the front." },
+  future:"The Seven of Cups card represents too many options and total indecision. Drawing this in the future position means total indecision awaits at the bar later, so have a rough order ready before you get to the front." },
 
 { id:'cups-eight', name:'Eight of Cups', suit:'Cups', symbol:'🚶', keyword:'Walking away, seeking more',
   past:"The Eight of Cups card represents walking away from something that's stopped serving you. Drawing this in the past position means you left something behind that no longer fit, quietly and without much fuss.",
@@ -261,7 +261,7 @@ const CARDS = [
 { id:'swords-two', name:'Two of Swords', suit:'Swords', symbol:'🙈', keyword:'Indecision',
   past:"The Two of Swords card represents avoiding a decision by point blank ignoring it. Drawing this in the past position means you dodged a decision for so long the problem quietly resolved itself.",
   present:"The Two of Swords card represents avoiding a decision by point blank ignoring it. Drawing this in the present position means you're pretending you haven't had a bit too much wine, and everyone's letting you have that one.",
-  future:"The Two of Swords card represents avoiding a decision by point blank ignoring it. Drawing this in the future position means a proper dilemma awaits later, one more drink at the paid bar, or admit defeat and head home." },
+  future:"The Two of Swords card represents avoiding a decision by point blank ignoring it. Drawing this in the future position means a proper dilemma awaits later, one more drink at the bar, or admit defeat and head home." },
 
 { id:'swords-three', name:'Three of Swords', suit:'Swords', symbol:'💔', keyword:'Heartbreak, healing',
   past:"The Three of Swords card represents a sharp, real moment of hurt. Drawing this in the past position means something stung properly once, and you didn't pretend it hadn't.",
@@ -327,12 +327,12 @@ const CARDS = [
 { id:'pentacles-ace', name:'Ace of Pentacles', suit:'Pentacles', symbol:'💰', keyword:'A real opportunity',
   past:"The Ace of Pentacles card represents a solid new opportunity landing in your lap. Drawing this in the past position means you found something small and useful you'd completely forgotten about.",
   present:"The Ace of Pentacles card represents a solid new opportunity landing in your lap. Drawing this in the present position means enjoy the sheer luxury of a beautifully catered meal you didn't have to cook or pay for.",
-  future:"The Ace of Pentacles card represents a solid new opportunity landing in your lap. Drawing this in the future position means a solid financial investment is coming tonight, specifically your card and a double measure at the paid bar." },
+  future:"The Ace of Pentacles card represents a solid new opportunity landing in your lap. Drawing this in the future position means a solid financial investment is coming tonight, specifically your card and a double measure at the bar." },
 
 { id:'pentacles-two', name:'Two of Pentacles', suit:'Pentacles', symbol:'🔄', keyword:'Juggling, staying adaptable',
   past:"The Two of Pentacles card represents juggling everything and just about managing. Drawing this in the past position means you kept several plates spinning on very little sleep, and somehow nothing dropped.",
   present:"The Two of Pentacles card represents juggling everything and just about managing. Drawing this in the present position means you're currently balancing a glass of wine, a forkful of food, and a conversation all at once.",
-  future:"The Two of Pentacles card represents juggling everything and just about managing. Drawing this in the future position means you'll attempt to carry three full drinks back from the paid bar without a tray, best of luck." },
+  future:"The Two of Pentacles card represents juggling everything and just about managing. Drawing this in the future position means you'll attempt to carry three full drinks back from the bar without a tray, best of luck." },
 
 { id:'pentacles-three', name:'Three of Pentacles', suit:'Pentacles', symbol:'🔨', keyword:'Teamwork, shared skill',
   past:"The Three of Pentacles card represents teamwork actually working properly. Drawing this in the past position means a group effort that genuinely worked, because everyone pulled their weight.",
@@ -352,7 +352,7 @@ const CARDS = [
 { id:'pentacles-six', name:'Six of Pentacles', suit:'Pentacles', symbol:'⚖', keyword:'Give and take, generosity',
   past:"The Six of Pentacles card represents generosity, given or received. Drawing this in the past position means you covered someone quietly once, without making a thing of it.",
   present:"The Six of Pentacles card represents generosity, given or received. Drawing this in the present position means offer your partner the rest of your dessert, you absolute saint.",
-  future:"The Six of Pentacles card represents generosity, given or received. Drawing this in the future position means you'll end up generously funding someone else's round at the paid bar later." },
+  future:"The Six of Pentacles card represents generosity, given or received. Drawing this in the future position means you'll end up generously funding someone else's round at the bar later." },
 
 { id:'pentacles-seven', name:'Seven of Pentacles', suit:'Pentacles', symbol:'🌱', keyword:'Patience, the long game',
   past:"The Seven of Pentacles card represents patience while something slowly grows. Drawing this in the past position means you waited longer than felt reasonable for something to pay off, and it did.",
@@ -367,7 +367,7 @@ const CARDS = [
 { id:'pentacles-nine', name:'Nine of Pentacles', suit:'Pentacles', symbol:'🌿', keyword:'Earned comfort, independence',
   past:"The Nine of Pentacles card represents enjoying the finer things because you've earned them. Drawing this in the past position means you treated yourself to something a bit excessive, and it was worth every penny.",
   present:"The Nine of Pentacles card represents enjoying the finer things because you've earned them. Drawing this in the present position means you're sitting here looking wealthy, classy, and thoroughly put together.",
-  future:"The Nine of Pentacles card represents enjoying the finer things because you've earned them. Drawing this in the future position means you'll treat yourself to an unnecessarily premium drink at the paid bar simply because you deserve it." },
+  future:"The Nine of Pentacles card represents enjoying the finer things because you've earned them. Drawing this in the future position means you'll treat yourself to an unnecessarily premium drink at the bar simply because you deserve it." },
 
 { id:'pentacles-ten', name:'Ten of Pentacles', suit:'Pentacles', symbol:'🏡', keyword:'Legacy, lasting foundations',
   past:"The Ten of Pentacles card represents long term security and lasting foundations. Drawing this in the past position means something was built to last, quietly, over a long stretch of time.",
@@ -392,5 +392,5 @@ const CARDS = [
 { id:'pentacles-king', name:'King of Pentacles', suit:'Pentacles', symbol:'💼', keyword:'Prosperity, quiet security',
   past:"The King of Pentacles card represents quiet prosperity and being the one who's got it handled. Drawing this in the past position means that particular satisfaction of clearing a debt and watching the balance hit zero.",
   present:"The King of Pentacles card represents quiet prosperity and being the one who's got it handled. Drawing this in the present position means sit back like a wealthy lord, fully approving of the wine and the general ambience.",
-  future:"The King of Pentacles card represents quiet prosperity and being the one who's got it handled. Drawing this in the future position means you'll confidently approach the paid bar later, tap your card, and declare put it all on one tab." }
+  future:"The King of Pentacles card represents quiet prosperity and being the one who's got it handled. Drawing this in the future position means you'll confidently approach the bar later, tap your card, and declare put it all on one tab." }
 ];
