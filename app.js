@@ -89,7 +89,7 @@ function revealFortune() {
   const data = [c1, c2, c3];
 
   data.forEach((card, i) => {
-    document.getElementById(`symbol-${i}`).textContent = card.symbol;
+    document.getElementById(`symbol-${i}`).innerHTML = getCardIcon(card);
     document.getElementById(`cardname-${i}`).textContent = card.name;
     document.getElementById(`keyword-${i}`).textContent = card.keyword;
     document.getElementById(`reveal-${i}`).classList.remove('flipped');
